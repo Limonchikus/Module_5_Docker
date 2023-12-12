@@ -9,7 +9,7 @@
 
 #### Установка Docker
 1. Обновите список пакетов:
-```bash sudo apt-get update
+'sudo apt-get update'
 2. Установите Docker:
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 
